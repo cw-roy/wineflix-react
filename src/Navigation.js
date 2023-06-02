@@ -8,9 +8,9 @@ const Navigation = () => {
         <h1>BeerFlix</h1>
         <ul className="navigation-links">
           <NavigationLink href="https://jazzy-syrniki-e1e880.netlify.app/" text="Home" />
-          <NavigationLink href="https://github.com/cw-roy/wineflix-react" text="Stout" />
+          <NavigationLink href="https://docs.netlify.com/site-deploys/create-deploys/#deploy-with-git" text="Stout" />
           <NavigationLink href="https://www.netlify.com/" text="Pale" />
-          <NavigationLink href="https://blog.logrocket.com/deploy-react-apps-netlify-3-ways/" text="Ale" />
+          <NavigationLink href="https://github.com/cw-roy/wineflix-react" text="Ale" />
         </ul>
       </section>
       <section className="secondary-navigation">
