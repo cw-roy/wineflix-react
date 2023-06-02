@@ -1,9 +1,8 @@
 // Wine.js
-import React from "react";
 import NewBadge from "./NewBadge";
 import ProgressIndicator from "./ProgressIndicator";
 
-const Wine = ({ imageUrl, isNew, label, isFinished, progress }) => {
+const Wine = ({ imageUrl, isNew, progress }) => {
   return (
     <li>
       <div className="wine">

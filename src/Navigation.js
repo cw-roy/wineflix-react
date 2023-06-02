@@ -1,5 +1,4 @@
 // Navigation.js
-import React from "react";
 import NavigationLink from "./NavigationLink";
 
 const Navigation = () => {
