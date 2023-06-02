@@ -1,5 +1,4 @@
 // Header.js
-import React from "react";
 import Navigation from "./Navigation";
 import HeroContent from "./HeroContent";
 

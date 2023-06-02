@@ -1,5 +1,4 @@
 // WineList.js
-import React from "react";
 import Wine from "./Wine";
 import ProgressIndicator from "./ProgressIndicator";
 
