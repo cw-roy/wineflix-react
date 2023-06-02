@@ -7,15 +7,15 @@ const Navigation = () => {
       <section className="primary-navigation">
         <h1>BeerFlix</h1>
         <ul className="navigation-links">
-          <NavigationLink href="https://developer.mozilla.org" text="Home" />
-          <NavigationLink href="https://developer.mozilla.org" text="Stout" />
-          <NavigationLink href="https://developer.mozilla.org" text="Pale" />
-          <NavigationLink href="https://developer.mozilla.org" text="IPA" />
+          <NavigationLink href="https://jazzy-syrniki-e1e880.netlify.app/" text="Home" />
+          <NavigationLink href="https://github.com/cw-roy/wineflix-react" text="Stout" />
+          <NavigationLink href="https://www.netlify.com/" text="Pale" />
+          <NavigationLink href="https://blog.logrocket.com/deploy-react-apps-netlify-3-ways/" text="Ale" />
         </ul>
       </section>
       <section className="secondary-navigation">
         <span className="user-avatar">
-          <a href="https://developer.mozilla.org">BF</a>
+          <a href="https://youtu.be/AOqY6disSVI">BF</a>
         </span>
       </section>
     </nav>
